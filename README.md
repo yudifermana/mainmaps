@@ -51,4 +51,4 @@ public class MainMaps extends FragmentActivity implements OnMapReadyCallback {
 
 ```
 ## Output
-[gambar](output/1.jpg)
+![1](https://github.com/yudifermana/mainmaps/assets/115516653/f9748c0b-d8d5-47db-ae05-76c9761992f7)
